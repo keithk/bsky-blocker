@@ -1,0 +1,14 @@
+{
+  "name": "bsky-blocker",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.13.25"
+  }
+}
